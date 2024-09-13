@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-  cout<<"Version 3";
+  cout<<"Version 1";
   return 0;
 }
